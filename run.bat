@@ -1,0 +1,1 @@
+"C:\Users\Promise\AppData\Local\Python\pythoncore-3.14-64\python.exe" -m streamlit run "C:\Users\Promise\Desktop\Final Year Project\Recommendation System\app.py"

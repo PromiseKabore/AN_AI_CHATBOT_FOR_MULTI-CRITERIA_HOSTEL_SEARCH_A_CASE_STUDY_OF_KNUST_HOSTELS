@@ -1,0 +1,4 @@
+CMD 
+
+PATH:cd "C:\Users\HP\Desktop\Final Year Project\Recommendation System"
+FILE RUN COMMAND: streamlit run app.py
